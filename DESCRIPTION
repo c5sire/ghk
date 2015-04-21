@@ -12,4 +12,4 @@ License: MIT + file LICENSE
 Copyright: International Potato Center (2015)
 Depends: R (>= 3.1.2)
 Suggests: testthat
-VignetteBuilder: knitr
+

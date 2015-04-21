@@ -4,7 +4,13 @@
 \alias{hello_world}
 \title{hello_world}
 \usage{
-hello_world()
+hello_world(name = "world")
+}
+\arguments{
+\item{name}{a name for the greeting}
+}
+\value{
+string a greeting
 }
 \description{
 The typical hello world example.

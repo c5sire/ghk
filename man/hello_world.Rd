@@ -15,4 +15,18 @@ string a greeting
 \description{
 The typical hello world example.
 }
+\examples{
+
+library(ghk)
+
+# the minimal example
+hello_world()
+
+# with parameter
+
+hello_world("mundo")
+}
+\author{
+Reinhard Simon
+}
 
